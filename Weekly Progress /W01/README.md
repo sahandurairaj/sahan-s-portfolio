@@ -416,10 +416,3 @@ float applyDeadzoneScaled(int32_t raw, int32_t deadzone, int32_t maxRaw) {
 }
 ---
 
-### 6. Result
-- Share photographs / Recordings (As drive link) or screenshots of your completed project.
-- Include the final output/result if possible.
-  - Eg: https://drive.google.com/file/d/1t56oTDtfnhWL0OTrfkKYV429bhk_HaOQ/view?usp=sharing
-
----
-

@@ -30,7 +30,6 @@ I'm doing this to build the habit of documenting as I go, so by the end I can lo
 
 ## 🧠 Skills & Learning
 
-I add the skills I learn along with each project. This list is just a starting point — feel free to add whatever else you pick up along the way:
 
 * Sensor Integration
 * Documentation
